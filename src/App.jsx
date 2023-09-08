@@ -13,7 +13,7 @@ function App() {
 
   return (
     <section style={{ display: "grid", gap: "8px" }}>
-      <h1>Todo App Change! Nu med dev branch</h1>
+      <h1>Todo App Change! Now on Netlify!</h1>
       <button style={{ justifySelf: "end", width: "25%" }} onClick={handleAdd}>
         Add
       </button>
